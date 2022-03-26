@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "381316625060",
+    "project_id": "betterleader-303ca",
+    "storage_bucket": "betterleader-303ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381316625060:android:f61672ce330bd29564ec31",
+        "android_client_info": {
+          "package_name": "com.flutterflow.betterleader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381316625060-9jr5d0qgv0vsi2s8ui0394v8s9bsnuds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.betterleader",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-v6flxCHgovk8S7zCLQskOpl3u2-tw4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381316625060-0nn3ose6c42fmu4brb5durml8ibko71j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrbippy.betterypubetterlesder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381316625060:android:d66732a3250880c264ec31",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-v6flxCHgovk8S7zCLQskOpl3u2-tw4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381316625060-0nn3ose6c42fmu4brb5durml8ibko71j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrbippy.betterypubetterlesder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381316625060:android:84a81e694b53e8c664ec31",
+        "android_client_info": {
+          "package_name": "com.mrbippy.betteryoubetterleader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381316625060-1iktctg9vejnfotvv0pen4qn1m0m3ucd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrbippy.betteryoubetterleader",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-v6flxCHgovk8S7zCLQskOpl3u2-tw4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381316625060-0nn3ose6c42fmu4brb5durml8ibko71j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrbippy.betterypubetterlesder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381316625060:android:eff5454dcaa31f7464ec31",
+        "android_client_info": {
+          "package_name": "com.mrbippy.betterypubetterlesder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381316625060-vkjajr208heoguq30pklokaa5u3j4nht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrbippy.betterypubetterlesder",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-v6flxCHgovk8S7zCLQskOpl3u2-tw4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381316625060-0nn3ose6c42fmu4brb5durml8ibko71j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrbippy.betterypubetterlesder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381316625060:android:ac629de18506ae4664ec31",
+        "android_client_info": {
+          "package_name": "com.mrbippy.com.betteryoubetterleader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381316625060-sdvif8gapr2ds9u0hlg8vst7dtvvs4tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrbippy.com.betteryoubetterleader",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-v6flxCHgovk8S7zCLQskOpl3u2-tw4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381316625060-07t59ptt9i85rh67p2uvis2n4n15672b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381316625060-0nn3ose6c42fmu4brb5durml8ibko71j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrbippy.betterypubetterlesder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
